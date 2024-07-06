@@ -87,7 +87,7 @@ Each Owner, by acceptance of a deed to or other conveyance of a Lot, vests in De
 
 ## 3.3. Number of Directors.
 
-The Board shall consist of three members. After the Declarant's right to appoint directors and officers terminates, the Board shall expand the number of directors to five or seven members, which shall be filled by a vote of the members in accordance with Section 3.5(b).^[this sub-article is modified by the First Amendment to the Bylaws - Ed.]
+The Board shall consist of three members. After the Declarant's right to appoint directors and officers terminates, the Board shall expand the number of directors to five or seven members, which shall be filled by a vote of the members in accordance with Section 3.5(b). *(this sub-article is modified by the First Amendment to the Bylaws - Ed.)*
 
 ## 3.4. Nomination of Directors.
 
