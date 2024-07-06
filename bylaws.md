@@ -77,10 +77,11 @@ The affairs of the Association shall be governed by a Board of Directors. Except
 ## 3.2. Directors Appointed by Declarant.
 
 The Declarant shall have the right to appoint or remove any member or members of the Board or any officer or officers of the Association until such time as the first of the following events shall occur: 
-
-a. December 31, 2012;  
-b. when the total votes outstanding in the Class A membership exceed the total votes outstanding in the Class B membership; or 
-c. the surrender by Declarant in writing of the authority to appoint and remove directors and officers of the Association. ^[This happened on November 26, 2019 - Ed.]
+<ol type="a">
+    <li>December 31, 2012;</li>
+    <li>when the total votes outstanding in the Class A membership exceed the total votes outstanding in the Class B membership; or</li>
+    <li>the surrender by Declarant in writing of the authority to appoint and remove directors and officers of the Association. *(This happened on November 26, 2019 - Ed.)*</li>
+</ol>
 
 Each Owner, by acceptance of a deed to or other conveyance of a Lot, vests in Declarant such authority to appoint and remove directors and officers of the Association. The directors selected by the Declarant need not be Owners or residents in the Community.
 
@@ -96,11 +97,11 @@ Elected directors shall be nominated from the floor and may also be nominated by
 
 Owner-elected directors shall be elected and hold office as follows:
 
-a.  After the Declarant's right to appoint directors and officers terminates, the Association shall call a special meeting to be held at which Owners shall elect five directors.
-
-b.  Thereafter, directors shall be elected at the Association's annual meeting. All eligible members of the Association shall vote on all directors to be elected, and the candidate(s) receiving the most votes shall be elected. At the special meeting in which the Owners initially elect directors, three directors shall be elected to two-year terms and two directors shall be elected to one-year terms.. At the expiration of the initial term of office of each respective Owner-elected director, a successor shall be elected to serve for a term of two years. The directors shall hold office until their respective successors shall have been elected by the Association.
-
-c.  At all times after the expiration of Declarant's right to appoint directors and officers, at least one member of the Board of Directors shall be an Owner-occupant of a Lot on which a townhome is constructed. Any such director(s) shall also sit on the Townhome Committee, as described elsewhere in the Bylaws and the Declaration.^[this sub-article is modified by the First Amendment to the Bylaws - Ed.]
+<ol type="a">
+    <li>After the Declarant's right to appoint directors and officers terminates, the Association shall call a special meeting to be held at which Owners shall elect five directors.</li>
+    <li>Thereafter, directors shall be elected at the Association's annual meeting. All eligible members of the Association shall vote on all directors to be elected, and the candidate(s) receiving the most votes shall be elected. At the special meeting in which the Owners initially elect directors, three directors shall be elected to two-year terms and two directors shall be elected to one-year terms.. At the expiration of the initial term of office of each respective Owner-elected director, a successor shall be elected to serve for a term of two years. The directors shall hold office until their respective successors shall have been elected by the Association.</li>
+    <li>At all times after the expiration of Declarant's right to appoint directors and officers, at least one member of the Board of Directors shall be an Owner-occupant of a Lot on which a townhome is constructed. Any such director(s) shall also sit on the Townhome Committee, as described elsewhere in the Bylaws and the Declaration. *(this sub-article is modified by the First Amendment to the Bylaws - Ed.)*</li>
+</ol>
 
 ## 3.6. Removal of Directors.
 
@@ -157,30 +158,20 @@ One or more directors may participate in and vote during any regular or special 
 ## 3.18. Powers.
 
 The Board shall be responsible for the affairs of the Association and shall have all of the powers and duties necessary for the administration of the Association's affairs and, as provided by law, may do all acts and things as are not by the Declaration, Articles, or these Bylaws directed to be done and exercised exclusively by the members. In addition to the duties imposed by these Bylaws or by any resolution of the Association that may hereafter be adopted, the Board shall have the power to and be responsible for the following, in way of explanation, but not limitation:
-
-a.  preparation and adoption of an annual budget in which there shall be established the contribution of each owner to the common expenses;
-
-b.  making assessments to defray the common expenses and establishing the means and methods of collecting such assessments;
-
-c.  providing for the operation, care, upkeep, and maintenance of all areas which are the maintenance responsibility of the Association;
-
-d.  designating, hiring, and dismissing the personnel necessary for the operation of the Association and, where appropriate, providing for the compensation of such personnel and for the purchase of equipment, supplies, and material to be used by such personnel in the performance of their duties;
-
-e.  collecting the assessments, depositing the proceeds thereof in a bank depository which it shall approve and using the proceeds to administer the Association;
-
-f.  making and amending use restrictions and rules and regulations;
-
-g.  opening of bank accounts on behalf of the Association and designating the signatories required;
-
-h.  enforcing by legal means the provisions of the Declaration, these ByLaws, and the rules and regulations adopted by it, and bringing any proceedings which may be instituted on behalf of or against the Owners concerning the Association;
-
-i.  obtaining and carrying insurance against casualties and liabilities, as provided in the Declaration, and paying the premium cost thereof;
-
-j.  paying the cost of all services rendered to the Association or its members which are not directly chargeable to Owners;
-
-k.  keeping books with detailed accounts of the receipts and expenditures affecting the Association and its administration, and specifying the maintenance and repair expenses and any other expenses incurred; and functions.
-
-l.  contracting with any Person for the performance of various duties
+<ol type="a">
+    <li>preparation and adoption of an annual budget in which there shall be established the contribution of each owner to the common expenses;</li>
+    <li>making assessments to defray the common expenses and establishing the means and methods of collecting such assessments;</li>
+    <li>providing for the operation, care, upkeep, and maintenance of all areas which are the maintenance responsibility of the Association;</li>
+    <li>designating, hiring, and dismissing the personnel necessary for the operation of the Association and, where appropriate, providing for the compensation of such personnel and for the purchase of equipment, supplies, and material to be used by such personnel in the performance of their duties;</li>
+    <li>collecting the assessments, depositing the proceeds thereof in a bank depository which it shall approve and using the proceeds to administer the Association;</li>
+    <li>making and amending use restrictions and rules and regulations;</li>
+    <li>opening of bank accounts on behalf of the Association and designating the signatories required;</li>
+    <li>enforcing by legal means the provisions of the Declaration, these ByLaws, and the rules and regulations adopted by it, and bringing any proceedings which may be instituted on behalf of or against the Owners concerning the Association;</li>
+    <li>obtaining and carrying insurance against casualties and liabilities, as provided in the Declaration, and paying the premium cost thereof;</li>
+    <li>paying the cost of all services rendered to the Association or its members which are not directly chargeable to Owners;</li>
+    <li>keeping books with detailed accounts of the receipts and expenditures affecting the Association and its administration, and specifying the maintenance and repair expenses and any other expenses incurred; and functions.</li>
+    <li>contracting with any Person for the performance of various duties</li>
+</ol>
 
 ## 3.19. Management Agent.
 
@@ -250,18 +241,20 @@ Committees to perform such tasks and to serve for such periods as may be designa
 Immediately prior to the termination of the Declarant's right to appoint directors and officers, there shall be created by the Board a "Townhome Committee." The Townhome Committee shall have five (5) members, all of whom shall be Owners and occupiers of town home Lots. Three (3) of the initial Committee Members shall serve two (2) year terms and two (2) of the initial Committee Members shall serve one (1) year terms. Thereafter, the Members of the Townhome Committee shall be nominated and elected exclusively by those Members of the Association who are Owners of townhome Lots and those Members so elected shall serve one (1) year terms. Upon proper vote, Members of the Townhome Committee may be re-elected for additional terms.
 
 The Board of Directors shall delegate to the Townhome Committee the following rights and duties:
-
-1. With respect to those matters which pertain exclusively to the management and maintenance of the townhomes in the Community, any and all rights of the Board provided by the Bylaws, the Declaration or by law, including, but not limited to,
-
-    a.  The preparation and adoption of an annual budget in which there shall be established the contribution of each townhome Lot Owner to the exterior maintenance of the townhome Residences and their respective grounds ("Townhome Assessments"), including the establishment of reserves;
-    b.  The imposition of Townhome Assessments, including special assessments;
-    c.  Providing for care, upkeep and exterior maintenance of the townhome Residences, including the maintenance and upkeep of their respective grounds;
-    d.  Designating, hiring and dismissing the personnel necessary for the above-described maintenance functions, and contracting with any necessary persons for the performance of such duties;
-    e.  Complete authority to approve or disapprove the expenditure of any Townhome Assessments or reserves.
-    f.  The right and duty to obtain the hazard insurance policy(ies) contemplated by Article IX, Paragraph 9.1 (b) of the Declaration.
-    g.  Such other rights, powers and duties of the Board, that the Board may delegate to the Townhome Committee by majority resolution. Provided, however, that nothing in this Article shall be construed as allowing the Townhome Committee to eliminate the responsibility to properly provide for the exterior maintenance and upkeep of the town home Residences and their respective grounds, and the maintenance of insurance on the townhome structures, as described on the Declaration.
-
-2. The funds collected from Townhome Assessments and any special Townhome Assessments shall be deposited in a separate account held by the Association (the "Townhome Account") and shall be separately accounted for. The Townhome Committee, or its duly authorized designee, shall have exclusive signature authority of the Townhome Account. Except as amended or supplemented hereby or previously amended or supplemented, the aforementioned terms and conditions of the Bylaws of Glen lake Upstate Homeowners Association, Inc., shall remain unchanged and in full force and effect.
+<ol type="1">
+    <li>With respect to those matters which pertain exclusively to the management and maintenance of the townhomes in the Community, any and all rights of the Board provided by the Bylaws, the Declaration or by law, including, but not limited to,
+<ol type="a">
+    <li>The preparation and adoption of an annual budget in which there shall be established the contribution of each townhome Lot Owner to the exterior maintenance of the townhome Residences and their respective grounds ("Townhome Assessments"), including the establishment of reserves;</li>
+    <li>The imposition of Townhome Assessments, including special assessments;</li>
+    <li>Providing for care, upkeep and exterior maintenance of the townhome Residences, including the maintenance and upkeep of their respective grounds;</li>
+    <li>Designating, hiring and dismissing the personnel necessary for the above-described maintenance functions, and contracting with any necessary persons for the performance of such duties;</li>
+    <li>Complete authority to approve or disapprove the expenditure of any Townhome Assessments or reserves.</li>
+    <li>The right and duty to obtain the hazard insurance policy(ies) contemplated by Article IX, Paragraph 9.1 (b) of the Declaration.</li>
+    <li>Such other rights, powers and duties of the Board, that the Board may delegate to the Townhome Committee by majority resolution. Provided, however, that nothing in this Article shall be construed as allowing the Townhome Committee to eliminate the responsibility to properly provide for the exterior maintenance and upkeep of the town home Residences and their respective grounds, and the maintenance of insurance on the townhome structures, as described on the Declaration.</li>
+    </ol>
+    </li>
+    <li>The funds collected from Townhome Assessments and any special Townhome Assessments shall be deposited in a separate account held by the Association (the "Townhome Account") and shall be separately accounted for. The Townhome Committee, or its duly authorized designee, shall have exclusive signature authority of the Townhome Account. Except as amended or supplemented hereby or previously amended or supplemented, the aforementioned terms and conditions of the Bylaws of Glen lake Upstate Homeowners Association, Inc., shall remain unchanged and in full force and effect.</li>
+</ol>
 
 *(this article is part of the First Amendment to the Bylaws - Ed.)*
 
@@ -282,11 +275,12 @@ If there are conflicts or inconsistencies between the provisions of South Caroli
 ## 6.4. Amendment.
 
 These Bylaws may be amended by the Board if such amendment is necessary:
-
-a.  to bring any provision hereof into compliance with any applicable governmental statute, rule, regulation, or judicial determination;
-b.  to enable any title insurance company to issue title insurance coverage with respect to the Lots subject to the Declaration;
-c.  to meet the requirements of an institutional or governmental lender or purchaser of mortgage loans, including, for example, the Federal National Mortgage Association or Federal Home Loan Mortgage Corporation, to enable such lender or purchaser to make or purchase Mortgage loans on the Lots subject to the Declaration; or
-d.  to enable any governmental agency or private insurance company to insure or guarantee Mortgage loans on the Lots subject to the Declaration
+<ol type="a">
+    <li>to bring any provision hereof into compliance with any applicable governmental statute, rule, regulation, or judicial determination;</li>
+    <li>to enable any title insurance company to issue title insurance coverage with respect to the Lots subject to the Declaration;</li>
+    <li>to meet the requirements of an institutional or governmental lender or purchaser of mortgage loans, including, for example, the Federal National Mortgage Association or Federal Home Loan Mortgage Corporation, to enable such lender or purchaser to make or purchase Mortgage loans on the Lots subject to the Declaration; or</li>
+    <li>to enable any governmental agency or private insurance company to insure or guarantee Mortgage loans on the Lots subject to the Declaration</li>
+</ol>
 
 Further, so long as Declarant has the right unilaterally to subject additional property to the Declaration, Declarant may unilaterally amend these Bylaws for any other purpose; however, such amendment shall not adversely affect the substantive rights or title of any Lot Owner without the consent of the affected Lot Owner.
 
