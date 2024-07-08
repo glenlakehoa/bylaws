@@ -1,4 +1,4 @@
-# bylaws
+# Bylaws
 Bylaws of the Glen Lake Upstate Homeowners Association
 
 
