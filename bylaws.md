@@ -60,7 +60,7 @@ The presence, in person or by proxy, of twenty-five (25%) percent of the total e
 
 ## 2.10. Action Without A Formal Meeting.
 
-Any action to be taken at a meeting of the members, or which may be taken at a meeting of the members, may be taken with out a meeting if one or more written consents setting forth the action so taken shall be signed by members holding at least eighty (80%) percent of the Association's voting power. Action taken with out a meeting shall be effective on the date that the last consent is executed, and consented to by the Declarant (so long as Declarant owns any property within the Community) unless a later effective date is specified therein. Each signed consent shall be delivered to the Association and shall be included in the minutes of meetings of members filed in the permanent records of the Association. Written notice of member approval pursuant to this Section must be given to all members who have not signed the written consent. Provided, however) that so long as Declarant holds a majority of the voting power of the Association, Declarant may take action without a meeting, in its sole discretion.
+Any action to be taken at a meeting of the members, or which may be taken at a meeting of the members, may be taken without a meeting if one or more written consents setting forth the action so taken shall be signed by members holding at least eighty (80%) percent of the Association's voting power. Action taken without a meeting shall be effective on the date that the last consent is executed, and consented to by the Declarant (so long as Declarant owns any property within the Community) unless a later effective date is specified therein. Each signed consent shall be delivered to the Association and shall be included in the minutes of meetings of members filed in the permanent records of the Association. Written notice of member approval pursuant to this Section must be given to all members who have not signed the written consent. Provided, however) that so long as Declarant holds a majority of the voting power of the Association, Declarant may take action without a meeting, in its sole discretion.
 
 ## 2.11. Action By Written Ballot.
 
@@ -72,7 +72,7 @@ Any action to be taken at any annual, regular, or special meeting of members may
 
 ## 3.1. Governing Body; Composition. 
 
-The affairs of the Association shall be governed by a Board of Directors. Except as provided in Section 3.2, the directors must reside in the Community and shall be members or spous es of such members; however, no person and his or her spouse may serve on the Board at the same time.
+The affairs of the Association shall be governed by a Board of Directors. Except as provided in Section 3.2, the directors must reside in the Community and shall be members or spouses of such members; however, no person and his or her spouse may serve on the Board at the same time.
 
 ## 3.2. Directors Appointed by Declarant.
 
@@ -99,7 +99,7 @@ Owner-elected directors shall be elected and hold office as follows:
 
 <ol type="a">
     <li>After the Declarant's right to appoint directors and officers terminates, the Association shall call a special meeting to be held at which Owners shall elect five directors.</li>
-    <li>Thereafter, directors shall be elected at the Association's annual meeting. All eligible members of the Association shall vote on all directors to be elected, and the candidate(s) receiving the most votes shall be elected. At the special meeting in which the Owners initially elect directors, three directors shall be elected to two-year terms and two directors shall be elected to one-year terms.. At the expiration of the initial term of office of each respective Owner-elected director, a successor shall be elected to serve for a term of two years. The directors shall hold office until their respective successors shall have been elected by the Association.</li>
+    <li>Thereafter, directors shall be elected at the Association's annual meeting. All eligible members of the Association shall vote on all directors to be elected, and the candidate(s) receiving the most votes shall be elected. At the special meeting in which the Owners initially elect directors, three directors shall be elected to two-year terms and two directors shall be elected to one-year terms. At the expiration of the initial term of office of each respective Owner-elected director, a successor shall be elected to serve for a term of two years. The directors shall hold office until their respective successors shall have been elected by the Association.</li>
     <li>At all times after the expiration of Declarant's right to appoint directors and officers, at least one member of the Board of Directors shall be an Owner-occupant of a Lot on which a townhome is constructed. Any such director(s) shall also sit on the Townhome Committee, as described elsewhere in the Bylaws and the Declaration. *(this sub-article is modified by the First Amendment to the Bylaws - Ed.)*</li>
 </ol>
 
@@ -123,7 +123,7 @@ Regular meetings of the Board may be held at such time and place as shall be det
 
 ## 3.10. Special Meetings.
 
-Special meetings of the Board shall be held when requested by the President, Vice President, or by any two directors. The notice shall specify the time and place of the meeting and the nature of any special business to be considered. The notice shall be given to each director by one of the following methods: (a) by personal delivery; (b) written notice by first class mail, postage prepaid; (c) by telephone communication, either directly to the director or to a person at the director's home or office who would reasonably be expected to communicate such notice promptly to the director; (d) electronic message, fiber optic, or telecommunication to the director; or (e) by commerrcial delivery service to such director's home or office. All such notices shall be given or sent to the director's address. telephone number, or other place of delivery as shown on the Association's records. Notices sent by first class mail shall be deposited into a United States mailbox at least four (4) days before the time set for the meeting. Notices given by personal delivery, telephone, or telecommunication shall be given at least forty-eight (48) hours before the time set for the meeting.
+Special meetings of the Board shall be held when requested by the President, Vice President, or by any two directors. The notice shall specify the time and place of the meeting and the nature of any special business to be considered. The notice shall be given to each director by one of the following methods: (a) by personal delivery; (b) written notice by first class mail, postage prepaid; (c) by telephone communication, either directly to the director or to a person at the director's home or office who would reasonably be expected to communicate such notice promptly to the director; (d) electronic message, fiber optic, or telecommunication to the director; or (e) by commercial delivery service to such director's home or office. All such notices shall be given or sent to the director's address. telephone number, or other place of delivery as shown on the Association's records. Notices sent by first class mail shall be deposited into a United States mailbox at least four (4) days before the time set for the meeting. Notices given by personal delivery, telephone, or telecommunication shall be given at least forty-eight (48) hours before the time set for the meeting.
 
 ## 3.11. Waiver of Notice.
 
@@ -131,7 +131,7 @@ The transactions of any Board meeting, however called and noticed or wherever he
 
 ## 3.12. Quorum of Board of Directors.
 
-At all Board meetings, a majority of the directors shall constitute a quorum for the transaction of business and the votes of a majority of the directors present at a meeting al which a quorum is present shall constitute the decision of the Board. A meeting at which a quorum of directors is present initially may continue to transact business, notwithstanding the withdrawal of directors, if at least a majority of the required quorum for that meeting approves any action taken. If the Board cannot hold a meeting because a quorum is not present, a majority of the directors at such meeting may adjourn the meeting to a time not less than five (5) or more than thirty (30) days from the date of the original meeting. At the reconvened meeting, if a quorum is present the Board may transact, without further notice, any business which it might have transacted at the original meeting. Any amendments to this Section shall comply with the provisions of the South C arolina Nonprofit Corporation Act, S.C. Code Section 33-31-10, *et seq*.
+At all Board meetings, a majority of the directors shall constitute a quorum for the transaction of business and the votes of a majority of the directors present at a meeting al which a quorum is present shall constitute the decision of the Board. A meeting at which a quorum of directors is present initially may continue to transact business, notwithstanding the withdrawal of directors, if at least a majority of the required quorum for that meeting approves any action taken. If the Board cannot hold a meeting because a quorum is not present, a majority of the directors at such meeting may adjourn the meeting to a time not less than five (5) or more than thirty (30) days from the date of the original meeting. At the reconvened meeting, if a quorum is present the Board may transact, without further notice, any business which it might have transacted at the original meeting. Any amendments to this Section shall comply with the provisions of the South Carolina Nonprofit Corporation Act, S.C. Code Section 33-31-10, *et seq*.
 
 ## 3.13. Compensation.
 
@@ -166,7 +166,7 @@ The Board shall be responsible for the affairs of the Association and shall have
     <li>collecting the assessments, depositing the proceeds thereof in a bank depository which it shall approve and using the proceeds to administer the Association;</li>
     <li>making and amending use restrictions and rules and regulations;</li>
     <li>opening of bank accounts on behalf of the Association and designating the signatories required;</li>
-    <li>enforcing by legal means the provisions of the Declaration, these ByLaws, and the rules and regulations adopted by it, and bringing any proceedings which may be instituted on behalf of or against the Owners concerning the Association;</li>
+    <li>enforcing by legal means the provisions of the Declaration, these Bylaws, and the rules and regulations adopted by it, and bringing any proceedings which may be instituted on behalf of or against the Owners concerning the Association;</li>
     <li>obtaining and carrying insurance against casualties and liabilities, as provided in the Declaration, and paying the premium cost thereof;</li>
     <li>paying the cost of all services rendered to the Association or its members which are not directly chargeable to Owners;</li>
     <li>keeping books with detailed accounts of the receipts and expenditures affecting the Association and its administration, and specifying the maintenance and repair expenses and any other expenses incurred; and functions.</li>
@@ -179,7 +179,7 @@ The Board may employ for the Association a professional management agent or agen
 
 ## 3.20. Borrowing.
 
-The Board shall have the power to borrow money without the approval of the members of the Association provided that the Board shall obtain membership approval in the same manner as for special assessments, so long as the proposed borrowing is for the purpose of modifying, improving, or adding amenities, and the total amount of such borrowing does not exceed ten thousand (\$10,000.00) dollars of outstanding debt at any one time.
+The Board shall have the power to borrow money without the approval of the members of the Association provided that the Board shall obtain membership approval in the same manner as for special assessments, so long as the proposed borrowing is for the purpose of modifying, improving, or adding amenities, and the total amount of such borrowing does not exceed ten thousand ($10,000.00) dollars of outstanding debt at any one time.
 
 ## 3.21. Fining or Suspension Procedure.
 
