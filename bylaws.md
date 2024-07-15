@@ -107,7 +107,7 @@ Owner-elected directors shall be elected and hold office as follows:[^3]
     <li>At all times after the expiration of Declarant's right to appoint directors and officers, at least one member of the Board of Directors shall be an Owner-occupant of a Lot on which a townhome is constructed. Any such director(s) shall also sit on the Townhome Committee, as described elsewhere in the Bylaws and the Declaration.</li>
 </ol>
 
- [^3] Sub-article c was added by the First Amendment to the Bylaws - Ed.
+ [^3]: Sub-article c was added by the First Amendment to the Bylaws - Ed.
 
 ## 3.6. Removal of Directors.
 
