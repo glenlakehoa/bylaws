@@ -83,7 +83,7 @@ The Declarant shall have the right to appoint or remove any member or members of
     <li>the surrender by Declarant in writing of the authority to appoint and remove directors and officers of the Association. </li>
 </ol>
 
-[^1]: The declarant surrended authority on November 24, 2019 - Ed.
+[^1]: The declarant surrended authority on November 26, 2019 - Ed.
 
 Each Owner, by acceptance of a deed to or other conveyance of a Lot, vests in Declarant such authority to appoint and remove directors and officers of the Association. The directors selected by the Declarant need not be Owners or residents in the Community.
 
