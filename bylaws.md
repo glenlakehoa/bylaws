@@ -76,18 +76,22 @@ The affairs of the Association shall be governed by a Board of Directors. Except
 
 ## 3.2. Directors Appointed by Declarant.
 
-The Declarant shall have the right to appoint or remove any member or members of the Board or any officer or officers of the Association until such time as the first of the following events shall occur: 
+The Declarant shall have the right to appoint or remove any member or members of the Board or any officer or officers of the Association until such time as the first of the following events shall occur:[^1] 
 <ol type="a">
     <li>December 31, 2012;</li>
     <li>when the total votes outstanding in the Class A membership exceed the total votes outstanding in the Class B membership; or</li>
-    <li>the surrender by Declarant in writing of the authority to appoint and remove directors and officers of the Association. *(This happened on November 26, 2019 - Ed.)*</li>
+    <li>the surrender by Declarant in writing of the authority to appoint and remove directors and officers of the Association. </li>
 </ol>
+
+[^1]: The declarant surrended authority on November 24, 2019 - Ed.
 
 Each Owner, by acceptance of a deed to or other conveyance of a Lot, vests in Declarant such authority to appoint and remove directors and officers of the Association. The directors selected by the Declarant need not be Owners or residents in the Community.
 
 ## 3.3. Number of Directors.
 
-The Board shall consist of three members. After the Declarant's right to appoint directors and officers terminates, the Board shall expand the number of directors to five or seven members, which shall be filled by a vote of the members in accordance with Section 3.5(b). *(this sub-article is modified by the First Amendment to the Bylaws - Ed.)*
+The Board shall consist of three members. After the Declarant's right to appoint directors and officers terminates, the Board shall expand the number of directors to five or seven members, which shall be filled by a vote of the members in accordance with Section 3.5(b).[^2]
+
+[^2]: this sub-article is modified by the First Amendment to the Bylaws - Ed.
 
 ## 3.4. Nomination of Directors.
 
@@ -95,13 +99,15 @@ Elected directors shall be nominated from the floor and may also be nominated by
 
 ## 3.5. Election and Term of Office.
 
-Owner-elected directors shall be elected and hold office as follows:
+Owner-elected directors shall be elected and hold office as follows:[^3]
 
 <ol type="a">
     <li>After the Declarant's right to appoint directors and officers terminates, the Association shall call a special meeting to be held at which Owners shall elect five directors.</li>
     <li>Thereafter, directors shall be elected at the Association's annual meeting. All eligible members of the Association shall vote on all directors to be elected, and the candidate(s) receiving the most votes shall be elected. At the special meeting in which the Owners initially elect directors, three directors shall be elected to two-year terms and two directors shall be elected to one-year terms. At the expiration of the initial term of office of each respective Owner-elected director, a successor shall be elected to serve for a term of two years. The directors shall hold office until their respective successors shall have been elected by the Association.</li>
-    <li>At all times after the expiration of Declarant's right to appoint directors and officers, at least one member of the Board of Directors shall be an Owner-occupant of a Lot on which a townhome is constructed. Any such director(s) shall also sit on the Townhome Committee, as described elsewhere in the Bylaws and the Declaration. *(this sub-article is modified by the First Amendment to the Bylaws - Ed.)*</li>
+    <li>At all times after the expiration of Declarant's right to appoint directors and officers, at least one member of the Board of Directors shall be an Owner-occupant of a Lot on which a townhome is constructed. Any such director(s) shall also sit on the Townhome Committee, as described elsewhere in the Bylaws and the Declaration.</li>
 </ol>
+
+ [^3] Sub-article c was added by the First Amendment to the Bylaws - Ed.
 
 ## 3.6. Removal of Directors.
 
@@ -236,7 +242,7 @@ Any officer may resign at any time by giving written notice to the Board. Such r
 
 Committees to perform such tasks and to serve for such periods as may be designated by the Board are hereby authorized. Each committee shall be composed and shall operate in accordance with the terms of the resolution of the Board designating the committee or with rules adopted by the Board.
 
-## 5.2 Town home Committee.
+## 5.2 Town home Committee.[^4]
 
 Immediately prior to the termination of the Declarant's right to appoint directors and officers, there shall be created by the Board a "Townhome Committee." The Townhome Committee shall have five (5) members, all of whom shall be Owners and occupiers of town home Lots. Three (3) of the initial Committee Members shall serve two (2) year terms and two (2) of the initial Committee Members shall serve one (1) year terms. Thereafter, the Members of the Townhome Committee shall be nominated and elected exclusively by those Members of the Association who are Owners of townhome Lots and those Members so elected shall serve one (1) year terms. Upon proper vote, Members of the Townhome Committee may be re-elected for additional terms.
 
@@ -256,7 +262,7 @@ The Board of Directors shall delegate to the Townhome Committee the following ri
     <li>The funds collected from Townhome Assessments and any special Townhome Assessments shall be deposited in a separate account held by the Association (the "Townhome Account") and shall be separately accounted for. The Townhome Committee, or its duly authorized designee, shall have exclusive signature authority of the Townhome Account. Except as amended or supplemented hereby or previously amended or supplemented, the aforementioned terms and conditions of the Bylaws of Glen lake Upstate Homeowners Association, Inc., shall remain unchanged and in full force and effect.</li>
 </ol>
 
-*(this article is part of the First Amendment to the Bylaws - Ed.)*
+[^4]: this article is part of the First Amendment to the Bylaws - Ed.
 
 # ARTICLE VI. MISCELLANEOUS
 
