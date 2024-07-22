@@ -5,7 +5,7 @@ Bylaws of the Glen Lake Upstate Homeowners Association
 ## Disclaimer
 This document is a transcription of the original Bylaws, registered at the Spartanburg Register of Deeds in deed book 82R, page 914, and serves only to provide a searchable form of the Bylaws. This document cannot be used to claim legal standing. This document has been compiled from the original Bylaws and the Amendment. The editors of this version believe this is the most recent version of the declaration as of July 6, 2024
 
-# References to the original documents
+## References to the original documents
 
 <ol>
   <li>Bylaws of the Glenlake Upstate Homeowners Association Inc recorded on March 29, 2005 in Deed Book 82-R at Page 913</li>
