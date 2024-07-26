@@ -9,7 +9,7 @@ This document is a transcription of the original Bylaws, registered at the Spart
 
 <ol>
   <li>Bylaws of the Glenlake Upstate Homeowners Association Inc recorded on March 29, 2005 in Deed Book 82-R at Page 913</li>
-  <li>First Amendment To Bylaws to Glenlake Upstate Homeowners Association Inc confirmative vote of over 80% of the Total Association Vote by way of the Class B voting membership of the Developer, recorded in the Register on January 10, 2019 in Deed Book 122-K at Page 900</li>
+  <li>First Amendment To Bylaws to Glenlake Upstate Homeowners Association Inc recorded in the Register on January 10, 2019 in Deed Book 122-K at Page 900</li>
 </ol>
 
 ## Transcription and corrections
