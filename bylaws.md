@@ -36,7 +36,7 @@ The President may call special meetings. In addition, it shall be the President'
 
 ## 2.4. Notice of Meetings.
 
-It shall be the duty of the Secretary to mail or to cause to be delivered to the Owner of each Lot (as shown in the records of the Association) and to the Declarant, so long as Declarant owns any real properly within the Community, a notice of each annual or special meeting of the Association stating the time and place where it is to be held and in the notice of a special meeting, the purpose there of. If an Owner wishes notice to be given at an address other than his or her Lot, the Owner shall designate such other address in writing to the Secretary. The mailing or delivery of a notice of meeting in the manner provided in this Section shall be considered service of notice. Notices shall be served not less than ten (l0) nor more than sixty (60) days before a meeting.
+It shall be the duty of the Secretary to mail or to cause to be delivered to the Owner of each Lot (as shown in the records of the Association) and to the Declarant, so long as Declarant owns any real properly within the Community, a notice of each annual or special meeting of the Association stating the time and place where it is to be held and in the notice of a special meeting, the purpose there of. If an Owner wishes notice to be given at an address other than his or her Lot, the Owner shall designate such other address in writing to the Secretary. The mailing or delivery of a notice of meeting in the manner provided in this Section shall be considered service of notice. Notices shall be served not less than ten (10) nor more than sixty (60) days before a meeting.
 
 ## 2.5. Waiver of Notice.
 
