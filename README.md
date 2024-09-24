@@ -1,7 +1,7 @@
 # Bylaws
 
 ## Disclaimer
-This document is a transcription of the original Bylaws, registered at the Spartanburg Register of Deeds in deed book 82-R, page 914, and serves only to provide a searchable form of the Bylaws. This document cannot be used to claim legal standing. This document has been compiled from the original Bylaws and the Amendment. The editors of this version believe this is the most recent version of the declaration as of July 26, 2024
+This document is a transcription of the original Bylaws, registered at the Spartanburg Register of Deeds and the First Amendment and serves only to provide a searchable form of the Bylaws. This document cannot be used to claim legal standing. This document has been compiled from the original Bylaws and the Amendment. The editors of this version believe this is the most recent version of the declaration as of July 26, 2024
 
 ## References to the original documents
 
