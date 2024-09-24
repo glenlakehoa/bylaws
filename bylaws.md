@@ -190,17 +190,19 @@ The Board shall have the power to borrow money without the approval of the membe
 ## 3.21. Fining or Suspension Procedure.
 
 The Board shall not impose a fine (a late charge shall not constitute a fine) or suspend a members right to use any part of the Common Property unless and until the following procedure is followed:
+<ol type = "a">
+<li>Notice: Written notice shall be served upon the violator by first-class or certified mail sent to the last address of the member shown on the Association's records, specifying:
+    <ol type = "1">
+    <li>the nature of the violation, the fine or suspension to be imposed, and the date, not less than fifteen (15) days from the date of the notice, that the fine or suspension will take effect;</li>
+    <li>that the violator may within ten (10) days from the date of the notice, request a hearing regarding the fine or suspension imposed;</li>
+    <li>the name, address, and telephone numbers of a person to contact to challenge the fine or suspension;</li>
+    <li>that any statements, evidence, and witnesses may be produced by the violator at the hearing; and</li>
+    <li>that all rights to have the fine or suspension reconsidered are waived if a hearing is not requested within ten (10) days of the date of the notice.</ol>
 
-a. **Notice**: Written notice shall be served upon the violator by first-class or certified mail sent to the last address of the member shown on the Association's records, specifying:
-    1.  the nature of the violation, the fine or suspension to be imposed, and the date, not less than fifteen (15) days from the date of the notice, that the fine or suspension will take effect;
-    2.  that the violator may within ten (10) days from the date of the notice, request a hearing regarding the fine or suspension imposed;
-    3.  the name, address, and telephone numbers of a person to contact to challenge the fine or suspension;
-    4.  that any statements, evidence, and witnesses may be produced by the violator at the hearing; and
-    5.  that all rights to have the fine or suspension reconsidered are waived if a hearing is not requested within ten (10) days of the date of the notice.
+<li>Hearing: If a hearing is requested, it shall be held before the Board in executive session, and the violator shall be given a reasonable opportunity to be heard. The minutes of the meeting shall contain a written statement of the results of the hearing. No fine or suspension shall be imposed prior to the date that is five (5) days after the date of the hearing.</li>
 
-b. **Hearing**: If a hearing is requested, it shall be held before the Board in executive session, and the violator shall be given a reasonable opportunity to be heard. The minutes of the meeting shall contain a written statement of the results of the hearing. No fine or suspension shall be imposed prior to the date that is five (5) days after the date of the hearing.
+<li>Enforcement: In any action or proceeding to enforce the Declaration, these Bylaws, the rules and regulations of the Association, or decision of the Board, the Association shall be entitled to recover all expenses from the violator, including all attorney's fees.</li></ol>
 
-c. **Enforcement**: In any action or proceeding to enforce the Declaration, these Bylaws, the rules and regulations of the Association, or decision of the Board, the Association shall be entitled to recover all expenses from the violator, including all attorney's fees.
 
 # ARTICLE IV. OFFICERS
 
